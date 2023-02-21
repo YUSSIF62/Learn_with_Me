@@ -5,4 +5,5 @@ print("Hello world!\n Welcome to 100 days of code")
 name = 'Yussif'
 print("Hello " + name)
 #the Input function: this gives the user the chance to inputer enteries
-print('Hello ' +input("What is your name: "))
+print(len('Hello ' +input("What is your name: ")))
+ 

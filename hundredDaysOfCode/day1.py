@@ -6,5 +6,5 @@ name = 'Yussif'
 print("Hello " + name)
 #the Input function: this gives the user the chance to inputer enteries
 print(len('Hello ' +input("What is your name: ")))
-input('What is your ')
+input('What is your first name?  ')
  

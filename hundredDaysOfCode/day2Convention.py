@@ -5,4 +5,4 @@ b = 58
 print(a + b)
 print(a*b)
 print(a/b)
-
+# above are the various operators used in python

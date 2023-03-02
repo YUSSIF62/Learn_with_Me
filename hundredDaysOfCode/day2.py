@@ -14,4 +14,4 @@ print(1235 + 5789)
 #Boolean: True or False dddd 
 a = 58
 b = 25
-b >= a 
+print(b >= a )

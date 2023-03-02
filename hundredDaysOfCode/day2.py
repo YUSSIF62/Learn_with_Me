@@ -13,4 +13,4 @@ print(1235 + 5789)
 
 #Boolean: True or False dddd 
 a = 58
-b 
+b = 25

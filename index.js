@@ -1,1 +1,1 @@
-let name = "Hello "
+let name = "Hello world"

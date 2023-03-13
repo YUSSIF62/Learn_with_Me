@@ -1,4 +1,4 @@
 #This is a conditional and operational section
-if a = 87{
-    
-}
+print("Welcome to Our platform")
+
+height = int(input("what is your height?  "))
